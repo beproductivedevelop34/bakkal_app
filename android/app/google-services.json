@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206534657012",
+    "project_id": "bakkalapp67",
+    "storage_bucket": "bakkalapp67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206534657012:android:0952921859b520dea02fa1",
+        "android_client_info": {
+          "package_name": "com.example.bakkal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206534657012-pk19lbnbab1vt6ugn761inr9vb78odk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPsdyG_vwYgFrfgIihO-0EfkOBULKpx_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206534657012-pk19lbnbab1vt6ugn761inr9vb78odk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
