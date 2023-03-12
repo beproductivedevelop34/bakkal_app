@@ -1,5 +1,5 @@
 # bakkal_app
--Kendi bakkalınızı oluşturun
--bakkala yeni urunler ekleyeyin ve satın
--siparislerinizi kontrol edin
+-Kendi bakkalınızı oluşturun <br>
+-bakkala yeni urunler ekleyeyin ve satın<br>
+-siparislerinizi kontrol edin<br>
 -yeni urunler siparis edin
